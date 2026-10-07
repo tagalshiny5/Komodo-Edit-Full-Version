@@ -247,4 +247,4 @@ This repository serves as the official landing page for Komodo Edit. The softwar
 **Get the most recent version of Komodo Edit today!**
 
 ---
-**Last updated:** 2026-10-06 20:01:10 UTC
+**Last updated:** 2026-10-07 00:25:06 UTC
